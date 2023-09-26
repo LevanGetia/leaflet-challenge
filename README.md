@@ -12,7 +12,6 @@ This project is an interactive web application aimed at visualizing earthquake d
 - Interactive World Map
 - Visualization of real-time earthquake data
 - Visualization of tectonic plate boundaries
-- Heatmap overlay displaying earthquake density
 - Detailed information about each earthquake via popups
 
 ## 🛠️ Technologies Used
